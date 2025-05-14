@@ -5,7 +5,7 @@
 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-ChatGPT 中文版：[chat2.gptcat.cc](https://chat2.gptcat.cc)   
+ChatGPT 中文版：[gptcat.cc](https://gptcat.cc)   
 ChatGPT 镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn)
 
 ---
